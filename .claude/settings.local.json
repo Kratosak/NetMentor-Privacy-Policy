@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell.exe -Command \"Get-ChildItem 'C:\\\\Program Files\\\\Android\\\\Android Studio' -Recurse -Filter 'java.exe' -ErrorAction SilentlyContinue | Select-Object -First 3 FullName\")",
+      "Bash(powershell.exe -Command \"[System.Environment]::SetEnvironmentVariable\\('JAVA_HOME', 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr', 'Process'\\); Set-Location 'D:\\\\NETWORK\\\\Programming\\\\Claude code APPs\\\\Cisco quiz app'; & '.\\\\gradlew.bat' bundleRelease --no-daemon 2>&1\")"
+    ]
+  }
+}

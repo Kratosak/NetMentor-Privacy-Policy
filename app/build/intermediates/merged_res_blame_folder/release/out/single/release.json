@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-ldpi-v4_ic_call_answer_video.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-ldpi-v4\\ic_call_answer_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxhdpi-v4\\ic_call_answer_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\xml_gma_ad_services_config.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-ads-lite-23.1.0-45:\\xml\\gma_ad_services_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_admob_close_button_white_cross.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-ads-23.1.0-10:\\drawable\\admob_close_button_white_cross.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.cisco.quizapp-merged_res-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.cisco.quizapp-main-68:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-anydpi-v21_ic_call_decline_low.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-anydpi-v21\\ic_call_decline_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_ic_call_decline.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\ic_call_decline.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_offline_dialog_background.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-ads-23.1.0-10:\\drawable\\offline_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_ic_call_decline.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\ic_call_decline.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\ic_call_decline_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxhdpi-v4\\ic_call_decline_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout_browser_actions_context_menu_page.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-browser-1.4.0-42:\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\animator_fragment_close_exit.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-fragment-1.5.1-13:\\animator\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxxhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxxhdpi-v4\\ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\color_vector_tint_theme_color.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-ui-release-58:\\color\\vector_tint_theme_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_ic_call_decline.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxhdpi-v4\\ic_call_decline.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_admob_close_button_black_circle_white_cross.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-ads-23.1.0-10:\\drawable\\admob_close_button_black_circle_white_cross.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-ldpi-v4_ic_call_decline_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-ldpi-v4\\ic_call_decline_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_ic_call_answer_video.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\ic_call_answer_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxxhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxxhdpi-v4\\ic_call_decline_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-ldpi-v4_ic_call_answer_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-ldpi-v4\\ic_call_answer_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-anydpi-v21_ic_call_answer.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-anydpi-v21\\ic_call_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.cisco.quizapp-merged_res-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.cisco.quizapp-main-68:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\animator_fragment_fade_exit.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-fragment-1.5.1-13:\\animator\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-anydpi-v21_ic_call_answer_low.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-anydpi-v21\\ic_call_answer_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\color_vector_tint_color.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-ui-release-58:\\color\\vector_tint_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_notification_oversize_large_icon_bg.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\notification_oversize_large_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\animator_fragment_close_enter.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-fragment-1.5.1-13:\\animator\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_ic_call_answer.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\ic_call_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxhdpi-v4\\ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout_browser_actions_context_menu_row.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-browser-1.4.0-42:\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "com.cisco.quizapp-merged_res-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.cisco.quizapp-main-68:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.cisco.quizapp-merged_res-67:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.cisco.quizapp-main-68:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\anim-v21_fragment_fast_out_extra_slow_in.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-fragment-1.5.1-13:\\anim-v21\\fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_admob_close_button_white_circle_black_cross.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-ads-23.1.0-10:\\drawable\\admob_close_button_white_circle_black_cross.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxhdpi-v4\\ic_call_answer_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_ic_call_decline_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\ic_call_decline_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_ic_call_answer.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\ic_call_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout_ime_secondary_split_test_activity.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\layout\\ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-anydpi-v21_ic_call_decline.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-anydpi-v21\\ic_call_decline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout_admob_empty_layout.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-ads-lite-23.1.0-45:\\layout\\admob_empty_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\ic_call_answer_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxxhdpi-v4\\ic_call_answer_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxhdpi-v4_ic_call_answer.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxhdpi-v4\\ic_call_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-anydpi-v21_ic_call_answer_video.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-anydpi-v21\\ic_call_answer_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\xml_image_share_filepaths.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-browser-1.4.0-42:\\xml\\image_share_filepaths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_ic_call_answer_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\ic_call_answer_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-ldpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-ldpi-v4\\ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxxhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxxhdpi-v4\\ic_call_answer_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_ic_call_answer_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\ic_call_answer_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\animator_fragment_open_exit.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-fragment-1.5.1-13:\\animator\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-ldpi-v4_ic_call_decline.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-ldpi-v4\\ic_call_decline.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_ic_call_answer_video.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\ic_call_answer_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_ic_call_answer.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\ic_call_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_offline_dialog_default_icon_42dp.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-ads-23.1.0-10:\\drawable\\offline_dialog_default_icon_42dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-anydpi-v21_ic_call_answer_video_low.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-anydpi-v21\\ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xhdpi-v4\\ic_call_answer_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-ldpi-v4_ic_call_answer.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-ldpi-v4\\ic_call_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_ic_call_decline_low.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\ic_call_decline_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_ic_call_decline.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\ic_call_decline.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxxhdpi-v4_ic_call_answer.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxxhdpi-v4\\ic_call_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xxxhdpi-v4_ic_call_decline.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-xxxhdpi-v4\\ic_call_decline.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout_offline_ads_dialog.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-ads-23.1.0-10:\\layout\\offline_ads_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\animator_fragment_open_enter.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-fragment-1.5.1-13:\\animator\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\animator_fragment_fade_enter.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-fragment-1.5.1-13:\\animator\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\layout_ime_base_split_test_activity.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\layout\\ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-core-1.12.0-54:\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-merged_res-67:\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Milan\\.gradle\\daemon\\8.4\\com.cisco.quizapp-jetified-play-services-base-18.0.0-40:\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    }
+]

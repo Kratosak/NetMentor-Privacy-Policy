@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cisco.quizapp-mergeReleaseResources-64:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\3af7f657a6195dd2b1678506e3428005\\transformed\\work-runtime-2.7.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
