@@ -1,4 +1,4 @@
-# Privacy Policy for NetMentor: IT Certification & Network Quiz
+# Privacy Policy for NetMentor: IT Network Mastery
 
 **Last updated:** April 16, 2026
 
