@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.cisco.quizapp-mergeReleaseResources-64:/values-v16/values-v16.xml",
+            "outputFile": "com.cisco.quizapp-mergeReleaseResources-65:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\eabaf051963df3c162016a180589fc5e\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\5ef470605b535a7e75be6f9eab6daccd\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

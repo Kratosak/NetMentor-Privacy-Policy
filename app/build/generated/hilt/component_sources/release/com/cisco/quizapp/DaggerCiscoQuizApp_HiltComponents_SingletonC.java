@@ -405,23 +405,23 @@ public final class DaggerCiscoQuizApp_HiltComponents_SingletonC {
     private static final class LazyClassKeyProvider {
       static String com_cisco_quizapp_ui_admin_AdminViewModel = "com.cisco.quizapp.ui.admin.AdminViewModel";
 
-      static String com_cisco_quizapp_ui_quiz_QuizViewModel = "com.cisco.quizapp.ui.quiz.QuizViewModel";
-
       static String com_cisco_quizapp_ui_result_ResultViewModel = "com.cisco.quizapp.ui.result.ResultViewModel";
 
       static String com_cisco_quizapp_ui_home_HomeViewModel = "com.cisco.quizapp.ui.home.HomeViewModel";
 
-      @KeepFieldType
-      AdminViewModel com_cisco_quizapp_ui_admin_AdminViewModel2;
+      static String com_cisco_quizapp_ui_quiz_QuizViewModel = "com.cisco.quizapp.ui.quiz.QuizViewModel";
 
       @KeepFieldType
-      QuizViewModel com_cisco_quizapp_ui_quiz_QuizViewModel2;
+      AdminViewModel com_cisco_quizapp_ui_admin_AdminViewModel2;
 
       @KeepFieldType
       ResultViewModel com_cisco_quizapp_ui_result_ResultViewModel2;
 
       @KeepFieldType
       HomeViewModel com_cisco_quizapp_ui_home_HomeViewModel2;
+
+      @KeepFieldType
+      QuizViewModel com_cisco_quizapp_ui_quiz_QuizViewModel2;
     }
   }
 
@@ -473,25 +473,25 @@ public final class DaggerCiscoQuizApp_HiltComponents_SingletonC {
 
     @IdentifierNameString
     private static final class LazyClassKeyProvider {
-      static String com_cisco_quizapp_ui_home_HomeViewModel = "com.cisco.quizapp.ui.home.HomeViewModel";
-
       static String com_cisco_quizapp_ui_admin_AdminViewModel = "com.cisco.quizapp.ui.admin.AdminViewModel";
 
-      static String com_cisco_quizapp_ui_result_ResultViewModel = "com.cisco.quizapp.ui.result.ResultViewModel";
+      static String com_cisco_quizapp_ui_home_HomeViewModel = "com.cisco.quizapp.ui.home.HomeViewModel";
 
       static String com_cisco_quizapp_ui_quiz_QuizViewModel = "com.cisco.quizapp.ui.quiz.QuizViewModel";
 
-      @KeepFieldType
-      HomeViewModel com_cisco_quizapp_ui_home_HomeViewModel2;
+      static String com_cisco_quizapp_ui_result_ResultViewModel = "com.cisco.quizapp.ui.result.ResultViewModel";
 
       @KeepFieldType
       AdminViewModel com_cisco_quizapp_ui_admin_AdminViewModel2;
 
       @KeepFieldType
-      ResultViewModel com_cisco_quizapp_ui_result_ResultViewModel2;
+      HomeViewModel com_cisco_quizapp_ui_home_HomeViewModel2;
 
       @KeepFieldType
       QuizViewModel com_cisco_quizapp_ui_quiz_QuizViewModel2;
+
+      @KeepFieldType
+      ResultViewModel com_cisco_quizapp_ui_result_ResultViewModel2;
     }
 
     private static final class SwitchingProvider<T> implements Provider<T> {
@@ -609,6 +609,10 @@ public final class DaggerCiscoQuizApp_HiltComponents_SingletonC {
 
     private Provider<QuizDatabase> provideQuizDatabaseProvider;
 
+    private Provider<TopicDao> provideTopicDaoProvider;
+
+    private Provider<QuestionDao> provideQuestionDaoProvider;
+
     private Provider<QuizRepository> quizRepositoryProvider;
 
     private Provider<DatabaseSeeder> databaseSeederProvider;
@@ -619,17 +623,11 @@ public final class DaggerCiscoQuizApp_HiltComponents_SingletonC {
 
     }
 
-    private TopicDao topicDao() {
-      return DatabaseModule_ProvideTopicDaoFactory.provideTopicDao(provideQuizDatabaseProvider.get());
-    }
-
-    private QuestionDao questionDao() {
-      return DatabaseModule_ProvideQuestionDaoFactory.provideQuestionDao(provideQuizDatabaseProvider.get());
-    }
-
     @SuppressWarnings("unchecked")
     private void initialize(final ApplicationContextModule applicationContextModuleParam) {
-      this.provideQuizDatabaseProvider = DoubleCheck.provider(new SwitchingProvider<QuizDatabase>(singletonCImpl, 2));
+      this.provideQuizDatabaseProvider = DoubleCheck.provider(new SwitchingProvider<QuizDatabase>(singletonCImpl, 3));
+      this.provideTopicDaoProvider = DoubleCheck.provider(new SwitchingProvider<TopicDao>(singletonCImpl, 2));
+      this.provideQuestionDaoProvider = DoubleCheck.provider(new SwitchingProvider<QuestionDao>(singletonCImpl, 4));
       this.quizRepositoryProvider = DoubleCheck.provider(new SwitchingProvider<QuizRepository>(singletonCImpl, 1));
       this.databaseSeederProvider = DoubleCheck.provider(new SwitchingProvider<DatabaseSeeder>(singletonCImpl, 0));
     }
@@ -678,10 +676,16 @@ public final class DaggerCiscoQuizApp_HiltComponents_SingletonC {
           return (T) new DatabaseSeeder(singletonCImpl.quizRepositoryProvider.get());
 
           case 1: // com.cisco.quizapp.data.repository.QuizRepository 
-          return (T) new QuizRepository(singletonCImpl.topicDao(), singletonCImpl.questionDao());
+          return (T) new QuizRepository(singletonCImpl.provideTopicDaoProvider.get(), singletonCImpl.provideQuestionDaoProvider.get());
 
-          case 2: // com.cisco.quizapp.data.local.QuizDatabase 
+          case 2: // com.cisco.quizapp.data.local.dao.TopicDao 
+          return (T) DatabaseModule_ProvideTopicDaoFactory.provideTopicDao(singletonCImpl.provideQuizDatabaseProvider.get());
+
+          case 3: // com.cisco.quizapp.data.local.QuizDatabase 
           return (T) DatabaseModule_ProvideQuizDatabaseFactory.provideQuizDatabase(ApplicationContextModule_ProvideContextFactory.provideContext(singletonCImpl.applicationContextModule));
+
+          case 4: // com.cisco.quizapp.data.local.dao.QuestionDao 
+          return (T) DatabaseModule_ProvideQuestionDaoFactory.provideQuestionDao(singletonCImpl.provideQuizDatabaseProvider.get());
 
           default: throw new AssertionError(id);
         }

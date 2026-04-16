@@ -59,7 +59,7 @@ import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback
 // Test interstitial ad unit ID.
 // TODO: Replace with your production ad unit ID before release:
 //   ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
-private const val INTERSTITIAL_AD_UNIT_ID = "ca-app-pub-3940256099942544/1033173712"
+private const val INTERSTITIAL_AD_UNIT_ID = "ca-app-pub-5522114715270354/2650419534"
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Cisco Quiz App</string>
+    <color name="ic_launcher_background">#04090D</color>
+    <string name="app_name">NetMentor: IT Certification &amp; Network Quiz</string>
     <style name="Theme.CiscoQuizApp" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.cisco.quizapp-mergeReleaseResources-64:/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "com.cisco.quizapp-mergeReleaseResources-65:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\9f79c6ac79664d0e290ca17c6a51cf07\\transformed\\browser-1.4.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\de2e68c9fa29754d49bb3b00f0809850\\transformed\\browser-1.4.0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,24 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\75641dd3c42c7b3805604a2ee982ef08\\transformed\\jetified-foundation-release\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\5ef470605b535a7e75be6f9eab6daccd\\transformed\\core-1.12.0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,141",
-                        "endColumns": "85,84",
-                        "endOffsets": "136,221"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,352,451,555,658,774",
+                        "endColumns": "95,101,98,98,103,102,115,100",
+                        "endOffsets": "146,248,347,446,550,653,769,870"
                     },
                     "to": {
-                        "startLines": "87,88",
-                        "startColumns": "4,4",
-                        "startOffsets": "8761,8847",
-                        "endColumns": "85,84",
-                        "endOffsets": "8842,8927"
+                        "startLines": "2,3,4,5,6,7,8,83",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,303,402,501,605,708,8396",
+                        "endColumns": "95,101,98,98,103,102,115,100",
+                        "endOffsets": "196,298,397,496,600,703,819,8492"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\f0aa8ec78512dd77ed1b9e633a43ad8f\\transformed\\jetified-ui-release\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\1e2ee5c7996c94ff278d6cfd8053ed0c\\transformed\\jetified-ui-release\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\31d9684f406eeadcc807991fc4c6c97d\\transformed\\jetified-material3-release\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\f7aa9fb91254b88eac8b1216e6b4ba58\\transformed\\jetified-material3-release\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -72,20 +72,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\eabaf051963df3c162016a180589fc5e\\transformed\\core-1.12.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\Milan\\.gradle\\caches\\transforms-3\\3fc19b340019fee24a2b845b995c8cfd\\transformed\\jetified-foundation-release\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,253,352,451,555,658,774",
-                        "endColumns": "95,101,98,98,103,102,115,100",
-                        "endOffsets": "146,248,347,446,550,653,769,870"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,141",
+                        "endColumns": "85,84",
+                        "endOffsets": "136,221"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,83",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,201,303,402,501,605,708,8396",
-                        "endColumns": "95,101,98,98,103,102,115,100",
-                        "endOffsets": "196,298,397,496,600,703,819,8492"
+                        "startLines": "87,88",
+                        "startColumns": "4,4",
+                        "startOffsets": "8761,8847",
+                        "endColumns": "85,84",
+                        "endOffsets": "8842,8927"
                     }
                 }
             ]

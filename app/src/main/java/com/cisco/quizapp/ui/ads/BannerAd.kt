@@ -12,7 +12,7 @@ import com.google.android.gms.ads.AdView
 // Test banner ad unit ID.
 // TODO: Replace with your production ad unit ID before release:
 //   ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
-private const val BANNER_AD_UNIT_ID = "ca-app-pub-3940256099942544/6300978111"
+private const val BANNER_AD_UNIT_ID = "ca-app-pub-5522114715270354/8365780643"
 
 @Composable
 fun BannerAd(modifier: Modifier = Modifier) {

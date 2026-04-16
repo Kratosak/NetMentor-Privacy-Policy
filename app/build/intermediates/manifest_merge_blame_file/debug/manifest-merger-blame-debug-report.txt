@@ -100,7 +100,7 @@
 58-->D:\NETWORK\Programming\Claude code APPs\Cisco quiz app\app\src\main\AndroidManifest.xml:16:9-18:70
 59            android:name="com.google.android.gms.ads.APPLICATION_ID"
 59-->D:\NETWORK\Programming\Claude code APPs\Cisco quiz app\app\src\main\AndroidManifest.xml:17:13-69
-60            android:value="ca-app-pub-3940256099942544~3347511713" />
+60            android:value="ca-app-pub-5522114715270354~8557352331" />
 60-->D:\NETWORK\Programming\Claude code APPs\Cisco quiz app\app\src\main\AndroidManifest.xml:18:13-67
 61
 62        <activity

@@ -6,18 +6,18 @@ Marking bool:workmanager_test_configuration:2130968579 reachable: referenced fro
 Marking id:tag_on_apply_window_listener:2131230809 reachable: referenced from base/dex/classes.dex
 Marking id:tag_window_insets_animation_callback:2131230817 reachable: referenced from base/dex/classes.dex
 Marking string:default_popup_window_title:2131492895 reachable: referenced from base/dex/classes.dex
-Marking id:pooling_container_listener_holder_tag:2131230799 reachable: referenced from base/dex/classes.dex
+Marking id:tag_unhandled_key_event_manager:2131230815 reachable: referenced from base/dex/classes.dex
+Marking id:tag_unhandled_key_listeners:2131230816 reachable: referenced from base/dex/classes.dex
 Marking id:inspection_slot_table_set:2131230783 reachable: referenced from base/dex/classes.dex
 Marking id:androidx_compose_ui_view_composition_context:2131230760 reachable: referenced from base/dex/classes.dex
 Marking string:default_error_message:2131492894 reachable: referenced from base/dex/classes.dex
 Marking id:view_tree_lifecycle_owner:2131230822 reachable: referenced from base/dex/classes.dex
-Marking string:common_google_play_services_unknown_issue:2131492883 reachable: referenced from base/dex/classes.dex
-Marking id:view_tree_view_model_store_owner:2131230825 reachable: referenced from base/dex/classes.dex
-Marking id:view_tree_saved_state_registry_owner:2131230824 reachable: referenced from base/dex/classes.dex
+Marking id:pooling_container_listener_holder_tag:2131230799 reachable: referenced from base/dex/classes.dex
 Marking string:m3c_bottom_sheet_drag_handle_description:2131492904 reachable: referenced from base/dex/classes.dex
 Marking id:hide_in_inspector_tag:2131230778 reachable: referenced from base/dex/classes.dex
 Marking id:view_tree_on_back_pressed_dispatcher_owner:2131230823 reachable: referenced from base/dex/classes.dex
 Marking id:consume_window_insets_tag:2131230771 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_unknown_issue:2131492883 reachable: referenced from base/dex/classes.dex
 Marking string:common_google_play_services_updating_text:2131492888 reachable: referenced from base/dex/classes.dex
 Marking string:common_google_play_services_unsupported_text:2131492884 reachable: referenced from base/dex/classes.dex
 Marking string:common_google_play_services_enable_text:2131492876 reachable: referenced from base/dex/classes.dex
@@ -27,7 +27,8 @@ Marking string:common_google_play_services_install_text:2131492879 reachable: re
 Marking string:common_google_play_services_enable_title:2131492877 reachable: referenced from base/dex/classes.dex
 Marking string:common_google_play_services_update_title:2131492887 reachable: referenced from base/dex/classes.dex
 Marking string:common_google_play_services_install_title:2131492880 reachable: referenced from base/dex/classes.dex
-Marking id:tag_unhandled_key_event_manager:2131230815 reachable: referenced from base/dex/classes.dex
+Marking id:view_tree_view_model_store_owner:2131230825 reachable: referenced from base/dex/classes.dex
+Marking id:view_tree_saved_state_registry_owner:2131230824 reachable: referenced from base/dex/classes.dex
 Marking id:report_drawn:2131230800 reachable: referenced from base/dex/classes.dex
 Marking id:wrapped_composition_tag:2131230828 reachable: referenced from base/dex/classes.dex
 Marking string:m3c_bottom_sheet_collapse_description:2131492902 reachable: referenced from base/dex/classes.dex
@@ -82,7 +83,6 @@ Marking string:androidx_startup:2131492864 reachable: referenced from base/dex/c
 Marking string:m3c_dialog:2131492938 reachable: referenced from base/dex/classes.dex
 Marking dimen:compat_notification_large_icon_max_width:2131099656 reachable: referenced from base/dex/classes.dex
 Marking dimen:compat_notification_large_icon_max_height:2131099655 reachable: referenced from base/dex/classes.dex
-Marking id:tag_unhandled_key_listeners:2131230816 reachable: referenced from base/dex/classes.dex
 Marking string:m3c_bottom_sheet_pane_title:2131492906 reachable: referenced from base/dex/classes.dex
 Marking id:tag_screen_reader_focusable:2131230812 reachable: referenced from base/dex/classes.dex
 Marking id:tag_accessibility_heading:2131230807 reachable: referenced from base/dex/classes.dex
@@ -133,6 +133,7 @@ Game
 gads:video:spinner:scale
 text_color
 noWindowFocus
+11100000
 A
 B
 C
@@ -145,7 +146,6 @@ policy_validator_enabled
 Selection
 G
 H
-TFTP
 L
 gold
 result
@@ -235,6 +235,7 @@ rtype
 e_agent
 provider
 mediumspringgreen
+root
 video_complete_urls
 BaseAdView.destroy
 gads:inspector:shake_interval
@@ -278,6 +279,7 @@ pink
 initialState
 questionId
 cmn
+ping
 gads:report_dynamite_crash_in_backgro...
 google.afma.nativeAds.getPublisherCus...
 logEventInternal
@@ -289,6 +291,7 @@ playerBackground
 gads:ara_unsampled_crash_reporting:en...
 is_idless
 question
+SOA
 le_x6
 tpc
 gads:use_system_ui_for_fullscreen:ena...
@@ -314,6 +317,7 @@ coh
 Lighten
 All
 gad:publisher_testing:force_local_req...
+com
 Downtempo
 BOTLIKE_DOWNLOADER
 render_in_browser
@@ -329,7 +333,6 @@ android.view.accessibility.extra.DATA...
 Plus
 including
 com.google.android.gms.ads.flag.
-DHCPDECLINE
 android.car.EXTENSIONS
 use_range_http_data_source
 droppedFrames
@@ -343,6 +346,7 @@ CMD_DONT_PROCEED
 adSessionType
 times
 DEAD_CLIENT
+SRV
 gads:gma_attestation:click:enable
 Strictness.None
 gads:plugin_regex
@@ -352,7 +356,6 @@ SdkJavascriptFactory.loadJavascriptEn...
 TrackGroupArray
 API_NOT_CONNECTED
 gads:http_assets_cache:time_out
-SSH
 XSLT
 Array
 TaggingLibraryJsInterface.getClickSig...
@@ -368,6 +371,7 @@ gads:inspector:bidding_data_enabled
 com.google.android.gms.common.interna...
 UINT32
 UNKNOWN_EVENT_TYPE
+STP
 styling
 BITSLICER
 Theme.Translucent
@@ -387,6 +391,7 @@ cv3
 MEDIA_ERROR_UNKNOWN
 ctv
 ctx
+tracert
 ACTION_SCROLL_DOWN
 /mraidLoaded
 SELECT_RIGHT_WORD
@@ -409,9 +414,9 @@ cw:
 android.hardware.type.automotive
 Rtl
 battery
+252
 gads:video_exo_player:use_play_back_i...
 CUI_NAME_CLICK
-253
 254
 DEVICE_IDENTIFIER_NO_ID
 255
@@ -528,6 +533,7 @@ linkToDeath
 gads:pact_polling_forever:enabled
 gads:position_watcher:throttle_ms
 LineHeightStyle.Alignment.Bottom
+IGMP
 /customClose
 com.google.android.gms.common.interna...
 paidv2_creation_time
@@ -604,6 +610,7 @@ ad_unit_id_settings
 DEBUGGER_STATE_ENVVAR
 UWS_INTERSTITIAL
 olaih
+CDP
 gads:signal:paid_v1_in_ad_request:ena...
 allow_pub_rendering
 EXTRA_WORK_SPEC_ID
@@ -653,7 +660,6 @@ GASS
 OMX.bcm.vdec.avc.tunnel
 parcel
 TXXX
-static
 test
 zeroflte
 brown
@@ -755,8 +761,8 @@ uVMat
 main
 TRK
 com.google.android.gms.ads.rewarded.C...
-onNavigateToQuestions
 custom_click_gesture_signal
+onNavigateToQuestions
 maxAdContentRating
 gads:fixed_size_bg_thread_pool:enabled
 eventName
@@ -799,6 +805,7 @@ DONE_RCV
 onAdOpened
 android.support.customtabs.action.Cus...
 46bb91c3c5
+/8
 Trace
 uFOVy
 dub
@@ -847,6 +854,7 @@ AdService
 13
 14
 CUT
+15
 16
 _decision
 17
@@ -861,6 +869,11 @@ setCurrentState
 paidv1_creation_time_android
 2.
 20
+21
+22
+23
+25
+26
 0x
 ITUNESADVISORY
 PreloadedLoader.decryptAdResponseIfNe...
@@ -868,6 +881,8 @@ app_set_id
 long
 TXT
 Exclusion
+30
+32
 /logScionEvent
 TYE
 GooglePlayServicesErrorDialog
@@ -902,10 +917,13 @@ gads:third_party_cookie_status_for_pa...
 scar
 semanticAction
 _next
+64
 gads:disable_click_during_fade_in
 67
 html_containers
 REWARD_BASED_VIDEO_AD
+68
+69
 locationReady
 Compose:applyChanges
 Ȉ
@@ -918,6 +936,7 @@ INVALID_ACCOUNT
 common
 native_ad_view_holder_delegate
 gads:unhandled_event_reporting:enabled
+/etc/network
 REPORT
 AFTKMST12
 layout
@@ -1045,13 +1064,13 @@ Delete
 DOWNLOAD_RELATED_POPULATION_MIN
 worktag
 gads:telephony_signal_timeout_duratio...
-Server
 gads:try_deep_link_fallback_native_ad...
 619949182
 ExitTransition.None
 CROSSED
 r_adstring
 Compose:sideeffects
+A6
 WordBreak.Unspecified
 UNMETERED
 onPlayerError
@@ -1141,6 +1160,7 @@ CZ
 PLAY_POLICY_VIOLATION_TREATMENT_ON_DE...
 DE
 adJson
+LACP
 RISKY_DOWNLOADER
 DG
 eventCategory
@@ -1253,7 +1273,6 @@ IM
 GoogleSignatureVerifier
 IN
 IO
-IP
 IQ
 _rootCause
 IR
@@ -1377,11 +1396,11 @@ NI
 VOID
 NL
 NO
-DTP
 NP
 CUI_NAME_SDKINIT_CLD
 NR
 handleLifecycleEvent
+NS
 floralwhite
 NU
 Indeterminate
@@ -1395,6 +1414,7 @@ OK
 render
 OM
 androidx.activity.result.contract.ext...
+IPsec
 evt
 arrayBaseOffset
 :Directory
@@ -1471,8 +1491,8 @@ gads:temporary_experiment_id:13
 SA
 gads:temporary_experiment_id:14
 SB
-SC
 ic_subnet
+SC
 SD
 default
 SE
@@ -1531,15 +1551,14 @@ TV
 dimen
 TW
 TZ
-SUCCESS_CACHE
 Label
+SUCCESS_CACHE
 GreedyScheduler
 UA
 gads:v48_granular_version
 gads:lite_sdk_retriever:dynamite_version
 Delay
 lifecycle
-Timestamps
 UG
 white
 gads:presentation_error:urls_enabled
@@ -1788,13 +1807,10 @@ UNKNOWN_STATUS
 TopMiddle
 gad:force_local_loading_enabled
 NativeAdLoader.onFailure
+Physical
 b5
 ACTION_UNSPECIFIED
-10.0.0.0/24
 .DYNAMIC_RECEIVER_NOT_EXPORTED_PERMIS...
-10.0.0.0/21
-10.0.0.0/23
-10.0.0.0/22
 ACTION_UNKNOWN
 gads:signals:doritos:v2:immediate:ena...
 ac
@@ -1802,6 +1818,7 @@ ad
 gads:migrate_call_from_schedule_at_fi...
 ai
 SHARED_WORKER
+SFTP
 am
 LineHeightStyle.Alignment.Center
 gads:video_exo_player:treat_load_exce...
@@ -1813,6 +1830,7 @@ gads:max_init_sdk_retries_for_paw:ena...
 SUCCEEDED
 AES128_CTR_HMAC_SHA256_RAW
 ACTION_CLICK
+10.0.0.0/16
 MEDIA_INFO_NOT_SEEKABLE
 bb
 F01H
@@ -1877,6 +1895,7 @@ F02H
 el
 em
 NonDisposableHandle
+Filled.Dns
 Ballad
 CMD_DONT_REPORT
 gads:disable_adid_values_in_ms
@@ -1937,16 +1956,15 @@ WEBVIEW_COOKIE
 gads:persist_js_flag:as
 $query
 ᠌ ဈဈဉ
-DoH
 he
 gads:topics_signal_timeout_duration_i...
 hl
-DoT
 hr
 A1601
 com.google.android.gms.ads.internal.r...
 MEDIA_INFO_SUBTITLE_TIMED_OUT
 hy
+512
 context
 gads:video:metric_frame_hash_time_len...
 fre
@@ -1962,8 +1980,8 @@ in
 io
 gads:simple_promise_exception_reporti...
 is
-it
 ad_id_size
+it
 rosybrown
 iw
 IndexForKey
@@ -1976,6 +1994,7 @@ js
 Uri
 Url
 BatteryNotLowTracker
+VTP
 com.google.android.gms.ads.internal.s...
 ka
 ftl
@@ -2000,6 +2019,7 @@ offsetY
 sampleRate.caps
 ma
 GCamera:MicroVideo
+www
 mf
 mh
 gads:video_stream_cache:connect_timeo...
@@ -2055,6 +2075,7 @@ pokeByteArray
 DOUBLE_LIST
 URL_UNWANTED
 resolvedCompositionContext
+587
 SELECT_ALL
 LineHeightStyle.Alignment.Top
 gads:persist_js_flag:ars
@@ -2073,6 +2094,7 @@ sizeAndRate.vCaps
 createAsync
 audio/mp3
 grouper
+Reject
 freeze
 CPH1715
 com.google.android.gms.ads.internal.o...
@@ -2219,8 +2241,10 @@ zh
 ia_var
 saveableStateHolderRef
 _state
+0.0.0.255
 NOT_CROSSED
 force
+255.0.0.0
 V_MPEG4/ISO/SP
 .mid
 602LV
@@ -2238,7 +2262,6 @@ power
 java.lang.Number
 FUNCTION_CLASS_ADDMETHOD
 Electronic
-CIDR
 tickRate
 android.view.accessibility.extra.DATA...
 make_wv
@@ -2270,6 +2293,7 @@ is_custom_click_gesture
 com.google.android.gms.ads.internal.f...
 gads:app_activity_tracker:app_session...
 TextMotion.Static
+Hybrid
 com.google.android.gms.ads.service.ADS
 goldenrod
 DANGEROUS
@@ -2301,8 +2325,8 @@ intent
 IN_PROGRESS
 darkslategrey
 downloaded_imp_urls
+Filled.CompareArrows
 gads:msa:nativealphavis_enabled
-Iterative
 emit
 REQUEST_WILL_RENDER
 DvbParser
@@ -2389,7 +2413,6 @@ slots
 success
 End
 arek
-DHCPNAK
 bitRatesBps
 gqi
 gads:scar_v2:prior_click_count:key
@@ -2615,7 +2638,6 @@ native:view_show
 csa_fontSizeLocation
 MESSAGE_LIST
 gads:hardware_acceleration_signal_tim...
-Subnetting
 rapid_rc
 font_variation_settings
 difficultyLevel
@@ -2673,8 +2695,8 @@ OMX.MARVELL.VIDEO.HW.CODA7542DECODER
 csa_channel
 rtmp
 gads:app_index:experiment_id
-QueryDispatcher
 HMAC_SHA512_128BITTAG_RAW
+QueryDispatcher
 awaiter
 DelayedWorkTracker
 WavHeaderReader
@@ -2818,6 +2840,7 @@ hrv
 DISABLED
 gad:interstitial_multi_window_method
 java.lang.annotation.Annotation
+GRE
 gads:chrome_custom_tabs_browser:enabled
 android.support.customtabs.extra.user...
 ENUM_SIGNAL_SOURCE_DISABLE
@@ -2829,6 +2852,7 @@ REQUEST_DID_UPDATE_SIGNALS
 googleAdsJsInterface
 androidx.view.accessibility.Accessibi...
 WorkContinuationImpl
+HTTPS
 ProfileInstaller
 timeupdate
 SERVER_REDIRECT
@@ -2838,10 +2862,10 @@ CuiMonitor.gettingAppIdFromManifest
 gads:spam_app_context:experiment_id
 DefaultGmsgHandlers.ShowLMDOverlay
 gads:adapter_initialization:red_button
-87.5%
 nodes
 resize
 dialog_not_shown
+/etc/dns.conf
 adapter.showRtbInterstitialAd
 H60
 layoutGravity
@@ -2867,6 +2891,7 @@ runtime_free
 RESOLUTION_REQUIRED
 com.google.android.gms.ads.internal.r...
 impression
+0.255.255.255
 loadAd
 arch_disk_io_
 content_url_hashes
@@ -2963,6 +2988,8 @@ is_interscroller
 RemoteSignalsClientTask.onConnected
 APP_NOT_FOREGROUND
 PartiallyExpanded
+172.16.0.0/12
+172.20.5.1
 gads:nonagon:app_open:enabled
 request_agent
 kotlin.Function
@@ -2979,6 +3006,7 @@ gad:publisher_testing:force_local_req...
 WrkTimerRunnable
 ဉ ᠌ဉဉ
 AES256_EAX
+Forwarder
 oldest
 gads:wire_interstitial_listener_after...
 WorkProgress
@@ -3040,9 +3068,9 @@ panell_dt
 REQUEST_FAILED_TO_UPDATE_SIGNALS
 panell_ds
 gads:sai:server_side_npa:disable_writing
+11000000
 childViews
 1601
-DNSSEC
 NonagonMobileAdsSettingManager_AppId
 android:establish_vpn_service
 olaf
@@ -3056,6 +3084,7 @@ serialized_proto_data
 LiveRegion
 intentSender
 getViewRootImpl
+10.255.255.254
 AdsServiceSignalTask.startAdsServiceS...
 delimiter
 enable
@@ -3070,6 +3099,7 @@ MEDIUM_RECTANGLE
 gads:ppt_check_for_topics_signal
 NOT_VISIBLE
 DELETE_SKIP_FILE
+Encapsulation
 Description
 createFromFamiliesWithDefault
 ActivityResultRegistry
@@ -3077,6 +3107,7 @@ gads:disabling_closable_area:enabled
 Clip
 c2.android
 com.google.crypto.tink.internal.KeyMa...
+10110000
 POTENTIALLY_UNWANTED
 NO_THREAD_ELEMENTS
 adapter_initialization_status
@@ -3092,8 +3123,11 @@ gads:attr_reporting_timeout_duration_...
 DstAtop
 UnfocusedEmpty
 Done
+192.168.10.1
 response_type
 com.google.android.gms.ads.db
+192.168.1.254
+192.168.10.0
 gads:webview:error_web_response:enabled
 192.168.1.255
 OpusHead
@@ -3112,6 +3146,7 @@ android.permission.POST_NOTIFICATIONS
 fontWeight
 A_PCM/INT/LIT
 onTouchEvent
+Datagram
 OMX.realtek.video.decoder.tunneled
 gads:webview_destroy_workaround:enabled
 androidx.work.workdb
@@ -3177,7 +3212,6 @@ Alternative
 adapter
 %s/%s/%s
 cache_state
-pool
 rendered_ad_enabled
 gads:appopen_load_on_bg_thread
 kotlin.jvm.functions.
@@ -3231,6 +3265,7 @@ RESULT_OK
 TypefaceCompatUtil
 gads:debug_hold_gesture:time_millis
 darkred
+172.32.0.0/12
 com.google.android.gms.ads.DELAY_APP_...
 pendingIntent
 DEVICE_IDENTIFIER_ADVERTISER_ID_UNHASHED
@@ -3238,6 +3273,7 @@ textSubstitution
 ACTION_CLEAR_FOCUS
 REQUEST_PREFETCH_INTERCEPTED
 AD_IMPRESSION
+ifconfig
 /afs/ads/i/webview.html
 gads:rewarded_precache_pool:schema
 WordBreak.Phrase
@@ -3361,8 +3397,9 @@ resolvedState
 Impossible
 com.google.android.gms.ads.AdActivity
 gads:rewarded_precache_pool:discard_s...
-border
+Filled.Security
 request_origin
+border
 ACTION_START_FOREGROUND
 read
 systemGestures
@@ -3425,6 +3462,7 @@ gads:nonagon:replace_no_ad_config_wit...
 802.1X
 /nativeAdCustomClick
 gads:include_signal_error_code_in_rtb...
+802.1Q
 gads:inspector:flick_enabled
 Processor
 K50a40
@@ -3446,7 +3484,6 @@ widths
 blockingTasksInBuffer
 drt_include
 DEVICE_IDENTIFIER_GLOBAL_ID
-172.16.48.0
 .webp
 .webm
 m3u8
@@ -3602,7 +3639,6 @@ OMX.google.opus.decoder
 StrictModeUtil.runWithLaxStrictMode
 gads:native:video_url_with_protocol
 INT
-ic_udp
 start_signals_timestamp
 $this$navOptions
 ACTION_PREVIOUS_HTML_ELEMENT
@@ -3611,6 +3647,7 @@ gads:tfua_deny_ad_storage:enabled
 IOS
 logDebug
 gads:afs:csa_webview_custom_domain_pa...
+90%
 INT32_LIST
 com.google.android.gms.ads.internal.C...
 maroon
@@ -3643,8 +3680,8 @@ view.resources
 com.google.android.gms.ads.internal.c...
 onRewardedAdFailedToShow
 Camera:MotionPhoto
-gads:signal:paid_on_gam:enabled
 ic_dns
+gads:signal:paid_on_gam:enabled
 adsid
 profileLevels
 java.
@@ -3680,6 +3717,7 @@ Underline
 media_view_header_tag
 pvid_s
 onSdkImpression
+10.1.0.0
 EnqueueRunnable
 ClientApiBroker.createAdOverlay
 lightsalmon
@@ -3698,6 +3736,7 @@ client
 gads:in_app_link_handling_for_android...
 woods_fn
 false
+Filled.Router
 common_google_play_services_network_e...
 workerCtl
 com.google.android.gms.ads.internal.c...
@@ -3818,6 +3857,7 @@ EditableText
 metadata
 adapter_sv
 missedQuestionIds
+Segmentation
 gads:content_vertical_fingerprint_ngram
 .done
 is_gma
@@ -3870,7 +3910,6 @@ gads:multiple_video_playback:enabled
 CryptoUtils.registerAead
 inspector_info
 DefaultAudioSink
-dynamic
 gads:caching_app_set_id_info:enabled
 XT1650
 BROKEN
@@ -3883,6 +3922,7 @@ instancesLimit
 AD_FAILED_TO_LOAD_CANCELLED
 recursive_server_response_data
 gads:attestation_token:enabled
+192.169.0.0/16
 once
 SUSPENDED
 Vocal
@@ -3929,6 +3969,7 @@ bg_magenta
 wv_c
 yInPixels
 /writeToLocalStorage
+Unlimited
 CUI_NAME_CONSENT_STRING_READING
 com.google.android.gms.ads.identifier...
 gads:query_map_eviction_ping:enabled
@@ -4035,7 +4076,6 @@ GENERATE_SIGNALS
 size
 left
 mhit
-Supernetting
 close_type
 gads:gestures:fpi:enabled
 REQUEST_DID_UPDATE_GMS_SIGNALS
@@ -4068,6 +4108,7 @@ impressionOwner
 csa_fontFamily
 vast_xml
 DRIVE_EXTERNAL_STORAGE_REQUIRED
+Length
 /precache
 gads:http_url_connection_factory:time...
 /pcs/view
@@ -4202,6 +4243,7 @@ ON_BACK_INVOKED
 prefetch_url
 gads:gestures:ns:enabled
 gads:ad_unit_quality_signals_from_sdk...
+/etc/hosts
 RECONNECTION_TIMED_OUT
 /dbm/ad
 DISCONNECTED
@@ -4298,7 +4340,6 @@ CREATED
 ContentOrRtl
 android.intent.category.OPENABLE
 gads:scar:google_click_domain_suffixes
-Bandwidth
 gads:static_device_signal_timeout_dur...
 com.google.android.gms.ads.identifier...
 androidx.content.action.LOAD_EMOJI_FONT
@@ -4332,6 +4373,7 @@ DOCUMENT
 orangered
 gads:parallel_rendering:max_renderers
 audioCodec
+Drop
 sampling_rate
 gads:clearcut_logging:write_to_file
 gads:video:shutter:enabled
@@ -4386,7 +4428,6 @@ ad_networks
 L30
 lightgreen
 done
-DHCPRELEASE
 lru
 pause
 gads:display_cutouts:enabled
@@ -4399,7 +4440,6 @@ newProvider
 CLOSED
 HMAC
 isContainer
-Cost
 .opus
 _removedRef
 browser
@@ -4538,7 +4578,6 @@ ExoPlayer:Loader:ProgressiveMediaPeriod
 SdkJavascriptFactory.createNewReferen...
 gads:app_activity_tracker:notify_back...
 DEFAULT
-Firewalls
 FULL_BANNER
 updateDisplayListIfDirty
 InsertTextAtCursor
@@ -4590,6 +4629,7 @@ fps_p_
 Italic
 gads:js_eng_load_gmsg:timeout_millis
 NO_EXCEEDS_CAPABILITIES
+Filled.Language
 audioSampleMime
 tfetch
 hasWindowFocus
@@ -4694,6 +4734,8 @@ service_esmobile
 middle
 csa_number
 RemoteAdsServiceSignalClientTask.onCo...
+SMTP
+Filled.AltRoute
 gads:native:handle_video_ftl
 METERED
 com.google.android.gms.ads.internal.f...
@@ -4704,7 +4746,6 @@ com.google.android.feature.services_u...
 NO_DECISION
 .bmp
 %s/%s.jar
-EDNS
 call_to_action
 AD_MANAGER
 forced
@@ -4726,7 +4767,6 @@ abort
 NO_TRIGGER
 ClientApiBroker.createNativeAdViewDel...
 offline_notification_impression
-Expert
 AES256_GCM_SIV
 gads:position_watcher:send_scroll_data
 /inspectorNetworkExtras
@@ -4747,6 +4787,7 @@ setCookie
 range_http_data_source_high_water_mark
 exo_connect_timeout_millis
 SOURCE_UNSPECIFIED
+Neither
 REGULAR_DOWNLOADER
 viewModelStoreOwner
 gads:banner_resume_bg_thread
@@ -4817,7 +4858,6 @@ java.lang.Enum
 olive
 /contentHeight
 gads:register_receiver_options:enabled
-Client
 android.hardware.type.embedded
 com.google.android.gms.ads.internal.a...
 gads:inspector:gma_shared_preference_...
@@ -4887,7 +4927,6 @@ deviceType
 ranchu
 android.media.action.HDMI_AUDIO_PLUG
 dimgrey
-overload
 Celtic
 gads:remove_rtb_adapter_cache:enabled
 ContentFetchTask.processWebViewContent
@@ -4961,7 +5000,6 @@ PostExit
 $this$anim
 darkgray
 kotlinx.coroutines.internal.StackTrac...
-SNMP
 nan
 showable_impression_type
 nas
@@ -5028,7 +5066,6 @@ settings
 dimgray
 UNKNOWN_USER_POPULATION
 view_hierarchy
-MED
 com.google.android.gms.chimera
 http://www.google.com
 l.jse
@@ -5038,9 +5075,8 @@ ad_close_time_ms
 magenta
 FLOAT
 ctx.baseContext
+IPv6
 WakeLocks
-192.168.10.95
-192.168.10.96
 x86_64
 gads:cache:add_itag_to_cache_key:enabled
 FORMAT_NATIVE
@@ -5149,6 +5185,7 @@ external_surround_sound_enabled
 PlayCore
 npa
 gads:mraid:expanded_interstitial_fix
+255.255.255.240
 ThirdPartyRenderer
 SUSPEND_NO_WAITER
 OMX.Nvidia.h264.decode.secure
@@ -5174,7 +5211,6 @@ EmptyCoroutineContext
 /aclk
 gads:omid_native_display_webview_exp_...
 DICTIONARY
-Inverse
 GET_SIGNALS
 kotlinx.coroutines.scheduler.core.poo...
 ContentFetchTask.fetchContent
@@ -5188,6 +5224,7 @@ _3p
 onMetadataEvent
 onTaskSucceeded
 TRCK
+200.100.50.1
 %c%c%c%c
 gads:custom_close_blocking:enabled
 flags
@@ -5202,7 +5239,6 @@ internalOpenHelper
 gads:is_in_scroll_view_new_api:enabled
 marinelteatt
 AES256_CTR_HMAC_SHA256
-MSS
 SELECT_UP
 KEY_NEEDS_RESCHEDULE
 width
@@ -5220,13 +5256,13 @@ java.lang.Byte
 SubripParser
 asset_view_signal
 င ဉဉဉင
-VLANs
 gads:write_local_flags_client:enabled
 _consensus
 gads:exception_with_additional_slices...
 BLOCKED_IMPRESSION
 surfaceDestroyed
 com.google.android.gms.ads.ChimeraAdL...
+nslookup
 htmlDisplay
 SetTextSubstitution
 onLMDOverlayClicked
@@ -5298,6 +5334,7 @@ Strictness.Strict
 touch_reporting
 mounted
 Dp.Unspecified
+192.168.0.0/16
 java.vendor
 android.intent.action.USER_PRESENT
 android.os.action.CHARGING
@@ -5462,6 +5499,7 @@ COROUTINE_SUSPENDED
 android.widget.Spinner
 V_MPEG2
 onAdClicked
+Filled.Layers
 gads:wire_banner_listener_after_reque...
 com.google.android.gms.ads.internal.m...
 offline_notification_failed
@@ -5559,6 +5597,7 @@ Dispatchers.Main.immediate
 invalidatedTablesIds
 gads:native:set_touch_listener_on_ass...
 WebvttCssParser
+10.0.0.0/8
 completed_requests
 allowOrientationChange
 insertKeyManager
@@ -5588,14 +5627,12 @@ IABConsent_ParsedPurposeConsents
 ACTION_ARGUMENT_SELECTION_START_INT
 com.google.common.util.concurrent.Agg...
 1.3.0
-172.16.45.0
 com.google.android.gms.ads.internal.c...
 gads:gma_attestation:click:qualificat...
 errorDescription
 columns
 ColorAnimation
 out
-172.16.32.0
 noop
 gads:cache:read_inner_data_source_if_...
 /resetPAID
@@ -5648,6 +5685,7 @@ kotlin.collections.Set
 custom_one_point_five_click_eligible
 lime
 paid_3p_hash_key
+8080
 gads:native:asset_view_touch_events
 boolean
 gads:app_open_precache_pool:count
@@ -5681,8 +5719,8 @@ RtbRendererRewarded
 IABConsent_ParsedVendorConsents
 vfp2
 displayName
-emoji2.text.DefaultEmojiConfig
 onSdkAdUserInteractionClick
+emoji2.text.DefaultEmojiConfig
 yellow
 blur
 160x600_as
@@ -5708,6 +5746,7 @@ vfr2
 TSOP
 InternalNativeCustomTemplateAdShim.in...
 request_pkg
+Filled.AccountTree
 gads:banner_pause_bg_thread
 Headline
 ACTION_SCROLL_FORWARD
@@ -5723,7 +5762,6 @@ list
 PGN610
 PGN611
 gads:inspector:adapter_supports_init_...
-ic_nat
 gads:gestures:clearTd:enabled
 TSOC
 TSOA
@@ -5837,8 +5875,8 @@ gads:native_ad_options_rtb:min_version
 audio/mpeg
 snow
 TYPE_UNKNOWN
-StructuralEqualityPolicy
 ic_vlan
+StructuralEqualityPolicy
 pcopt
 ad_base_url
 _id
@@ -5870,6 +5908,7 @@ gad:interstitial_ad_stay_active_in_mu...
 armv71
 media3.decoder
 STOP_AND_RESET_REPLAY_CACHE
+Deny
 kotlinx.coroutines.scheduler.keep.ali...
 ALGORITHMIC_DARKENING
 com.google.android.gms.ads.OutOfConte...
@@ -5913,6 +5952,7 @@ Compose:Composer.dispose
 Container
 onNavigateToResult
 java.lang.Short
+Tunneling
 gads:get_request_signals_cld:enabled
 _closeCause
 ည
@@ -5965,7 +6005,7 @@ com.google.android.gms.common.interna...
 TVSHOWSORT
 A_DTS
 SYMMETRIC
-192.168.10.127
+192.168.10.128
 ACCESSIBILITY_CLICKABLE_SPAN_ID
 gads:pact_polling_interval_ms
 imeAction
@@ -5973,7 +6013,6 @@ ACTION_PAGE_LEFT
 FAILED
 OverlayDisplayService
 font_ttc_index
-NAT64
 is_keyguard_locked
 image_url
 customActions
@@ -6091,6 +6130,7 @@ kotlin.reflect.jvm.internal.Reflectio...
 dae_name
 gads:cui_monitoring_v3_enabled
 COLLAPSED
+ICMP
 skyblue
 cleanedAndPointers
 DEFAULT_TEST_TAG
@@ -6134,7 +6174,6 @@ android.os.SystemProperties
 TCMP
 drawArrays
 LICENSE_CHECK_FAILED
-PAT
 gads:sai:timeout_ms
 gads:stav:enabled
 RescheduleReceiver
@@ -6150,6 +6189,7 @@ TCON
 TCOM
 SELECT_HOME
 Weight
+netstat
 Role
 setInspectorGesture
 %c%c%c
@@ -6170,6 +6210,7 @@ columnNames
 Polka
 com.google.protobuf.GeneratedMessage
 bid_response
+10.0.0.0
 java.lang.Boolean
 gads:policy_validator_for_all_pubs:en...
 10.0.0.1
@@ -6207,7 +6248,6 @@ CUI_NAME_CLICK_SIGNALS
 onSizeChanged
 getResId
 fontSize
-DHCPINFORM
 ANDROID
 fail_reason
 winningAdapterClassName
@@ -6235,6 +6275,7 @@ Bluegrass
 DFP_INTERSTITIAL
 focusManager
 CREATE_WEB_MESSAGE_CHANNEL
+3389
 gads:sai:app_measurement_enabled3
 WrkMgrInitializer
 EmojiCompat.MetadataRepo.create
@@ -6292,6 +6333,7 @@ online
 gads:mediation_no_fill_error:min_version
 android.graphics.FontFamily
 keyframes
+192.168.0.1
 PUBLICATION
 SELECT_LEFT_CHAR
 gads:fluid_ad:use_wrap_content_height
@@ -6348,6 +6390,7 @@ UNWANTED
 FontFamily.Default
 DeviceInfo.getResolveInfo
 android.intent.action.BATTERY_OKAY
+/16
 gad:http_redirect_max_count:times
 pubId
 nativeCanvas
@@ -6356,21 +6399,16 @@ getAccessibilityViewId
 AdMediaPlayerView.reportMetadata
 kotlinx.coroutines.io.parallelism
 Packet
-PSH
 getAdConfiguration
 RtbAdapterMap.hasAtleastOneRegexMatch
 collection
-ELUGA_Ray_X
 ic_osi
-/22
-/23
+ELUGA_Ray_X
 /24
 attributionSource
-/25
 EMPTY_URL
 Disco
 safe_browsing
-/29
 image/jpg
 RECEIVE_HTTP_ERROR
 js_last_update
@@ -6382,9 +6420,7 @@ onLMDOverlayCollapse
 overlay_url
 Aura_Note_2
 PRE_PROCESS
-/30
 Retro
-/31
 /32
 PTR
 onBackPressedCallback
@@ -6407,7 +6443,6 @@ gmp_app_id
 prefix
 ByteString
 expectedSize
-SACK
 mimeTypes
 enableVertexAttribArray
 gads:omid_native_display_webview_does...
@@ -6423,6 +6458,7 @@ adapter.appOpen.showAd
 gads:unsampled_crash_reporting:enabled
 application/json
 HttpUtil
+192.168.100.1
 java.util.Set
 textEmphasis
 Suffix
@@ -6476,8 +6512,8 @@ NATIVE_CONTENT
 gads:ad_key_signal_timeout_duration_i...
 olivedrab
 INSERT
-Filled.Edit
 ThirdPartyRendererBanner
+Filled.Edit
 $onBackInvoked
 Psytrance
 scrollableContainerBoxes
@@ -6502,8 +6538,8 @@ FirstPartyNativeAdCore.performCustomC...
 cld_s
 cld_r
 SsaStyle
-REMOTE_EXCEPTION
 databaseSeeder
+REMOTE_EXCEPTION
 SHA256
 CUI_NAME_REWARD_GRANTED
 /h5ads
@@ -6555,7 +6591,7 @@ isml
 com.google.unity.ads.UNITY_VERSION
 initialize
 Initial
-172.16.40.0
+ipconfig
 acc
 REQUEST_SAVED_TO_CACHE
 collect_secure_signals
@@ -6598,7 +6634,6 @@ BROWSER_INITIATED
 RecursiveRendererNative
 gads:gestures:as2percentage
 asnpdi
-Recursive
 ROOM
 asnpdc
 crdb
@@ -6682,7 +6717,6 @@ com.google.android.play.core.lmd.BIND...
 alt
 MagnifierPositionInRoot
 com.google.android.gms.ads.internal.r...
-Transparent
 imeAnimationTarget
 Cult
 kotlin.Int
@@ -6739,6 +6773,7 @@ _COROUTINE.
 TaskStackBuilder
 peekInt
 192.168.1.1
+192.168.1.0
 ENUM_SIGNAL_SOURCE_GASS
 androidx.savedstate.Restarter
 808182838485868788898a8b8c8d8e8f90919...
@@ -6749,6 +6784,8 @@ google.afma.request.getSignals
 GROUP
 com.google.android.gms.ads.ChimeraAdM...
 rewarded_interstitial
+255.255.0.0
+Protocol
 arm
 rtb
 backgroundColor
@@ -7036,8 +7073,8 @@ Image
 TaggingLibraryJsInterface.getViewSign...
 clipboard
 topicDao
-onLoadException
 ic_routing
+onLoadException
 com.google.android.gms.ads.clearcut.D...
 dvhe
 cbcs
@@ -7141,10 +7178,13 @@ measurementEnabled
 gads:can_open_app_and_open_app_action...
 gads:content_length_weight
 RST
+123
+128
 CONDITION_FALSE
 ad_load_urls
 android.intent.action.SCREEN_ON
 a0784d7a4716f3feb4f64e7f4b39bf04
+ARP
 gads:cache:bind_on_foreground
 android.intent.action.EDIT
 gads:signals:cache:enabled
@@ -7166,7 +7206,9 @@ paid_storage_sp
 dagger.hilt.android.EarlyEntryPoint
 gads:inspector:shake_reset_time_ms
 store
+143
 SHfJbyMgI7MrHewwYoTmYsM7CTkziBSZ0pvzh...
+Permit
 adapter_response_replacement_key
 gads:js_flags:mf
 PREPARE_HTTP_REQUEST
@@ -7205,6 +7247,7 @@ gads:signal:paid_v2_ttl
 KEY_BATTERY_CHARGING_PROXY_ENABLED
 text/plain
 relative_to
+10100000
 REQUESTED_CACHE_KEY_FROM_SERVICE_SUCC...
 RemoteUrlAndCacheKeyClientTask.onConn...
 TextLayout:initLayout
@@ -7231,6 +7274,7 @@ custom_mute_enabled
 SphericalVideoRenderer
 FENCED_FRAME
 gads:content_age_weight
+192.168.0.255
 lightcoral
 IsShowingTextSubstitution
 Finished
@@ -7289,7 +7333,6 @@ create_interstitial_ad
 ACTION_COPY
 UNENCRYPTED
 body_header_tag
-VLSM
 WorkerWrapper
 endVelocityVector
 NOTIFICATION_PERMISSION_ACCEPTED
@@ -7297,6 +7340,7 @@ cn.google.services
 accessibilityTraversal
 ScrollBy
 Screen
+/etc/resolv.conf
 accept_3p_cookie
 is_browser_custom_tabs_capable
 tcc
@@ -7330,6 +7374,62 @@ arguments
 network_fine
 gads:idless:app_measurement_idless_en...
 Marking id:blocking:2131230763 used because it matches string pool constant block
+Marking color:common_google_signin_btn_text_dark:2131034120 used because it matches string pool constant com
+Marking color:common_google_signin_btn_text_dark_default:2131034121 used because it matches string pool constant com
+Marking color:common_google_signin_btn_text_dark_disabled:2131034122 used because it matches string pool constant com
+Marking color:common_google_signin_btn_text_dark_focused:2131034123 used because it matches string pool constant com
+Marking color:common_google_signin_btn_text_dark_pressed:2131034124 used because it matches string pool constant com
+Marking color:common_google_signin_btn_text_light:2131034125 used because it matches string pool constant com
+Marking color:common_google_signin_btn_text_light_default:2131034126 used because it matches string pool constant com
+Marking color:common_google_signin_btn_text_light_disabled:2131034127 used because it matches string pool constant com
+Marking color:common_google_signin_btn_text_light_focused:2131034128 used because it matches string pool constant com
+Marking color:common_google_signin_btn_text_light_pressed:2131034129 used because it matches string pool constant com
+Marking color:common_google_signin_btn_tint:2131034130 used because it matches string pool constant com
+Marking dimen:compat_button_inset_horizontal_material:2131099650 used because it matches string pool constant com
+Marking dimen:compat_button_inset_vertical_material:2131099651 used because it matches string pool constant com
+Marking dimen:compat_button_padding_horizontal_material:2131099652 used because it matches string pool constant com
+Marking dimen:compat_button_padding_vertical_material:2131099653 used because it matches string pool constant com
+Marking dimen:compat_control_corner_material:2131099654 used because it matches string pool constant com
+Marking dimen:compat_notification_large_icon_max_height:2131099655 used because it matches string pool constant com
+Marking dimen:compat_notification_large_icon_max_width:2131099656 used because it matches string pool constant com
+Marking drawable:common_full_open_on_phone:2131165187 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_icon_dark:2131165188 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_icon_dark_focused:2131165189 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_icon_dark_normal:2131165190 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_icon_dark_normal_background:2131165191 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_icon_disabled:2131165192 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_icon_light:2131165193 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_icon_light_focused:2131165194 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_icon_light_normal:2131165195 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_icon_light_normal_background:2131165196 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_text_dark:2131165197 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_text_dark_focused:2131165198 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_text_dark_normal:2131165199 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_text_dark_normal_background:2131165200 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_text_disabled:2131165201 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_text_light:2131165202 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_text_light_focused:2131165203 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_text_light_normal:2131165204 used because it matches string pool constant com
+Marking drawable:common_google_signin_btn_text_light_normal_background:2131165205 used because it matches string pool constant com
+Marking id:compose_view_saveable_id_tag:2131230770 used because it matches string pool constant com
+Marking string:common_google_play_services_enable_button:2131492875 used because it matches string pool constant com
+Marking string:common_google_play_services_enable_text:2131492876 used because it matches string pool constant com
+Marking string:common_google_play_services_enable_title:2131492877 used because it matches string pool constant com
+Marking string:common_google_play_services_install_button:2131492878 used because it matches string pool constant com
+Marking string:common_google_play_services_install_text:2131492879 used because it matches string pool constant com
+Marking string:common_google_play_services_install_title:2131492880 used because it matches string pool constant com
+Marking string:common_google_play_services_notification_channel_name:2131492881 used because it matches string pool constant com
+Marking string:common_google_play_services_notification_ticker:2131492882 used because it matches string pool constant com
+Marking string:common_google_play_services_unknown_issue:2131492883 used because it matches string pool constant com
+Marking string:common_google_play_services_unsupported_text:2131492884 used because it matches string pool constant com
+Marking string:common_google_play_services_update_button:2131492885 used because it matches string pool constant com
+Marking string:common_google_play_services_update_text:2131492886 used because it matches string pool constant com
+Marking string:common_google_play_services_update_title:2131492887 used because it matches string pool constant com
+Marking string:common_google_play_services_updating_text:2131492888 used because it matches string pool constant com
+Marking string:common_google_play_services_wear_update_text:2131492889 used because it matches string pool constant com
+Marking string:common_open_on_phone:2131492890 used because it matches string pool constant com
+Marking string:common_signin_button_text:2131492891 used because it matches string pool constant com
+Marking string:common_signin_button_text_long:2131492892 used because it matches string pool constant com
 Marking attr:ttcIndex:2130903086 used because it matches string pool constant ttc
 Marking attr:startDestination:2130903084 used because it matches string pool constant start
 Marking attr:shortcutMatchRequired:2130903083 used because it matches string pool constant short
@@ -7495,8 +7595,8 @@ Marking string:native_body:2131492958 used because it matches string pool consta
 Marking string:native_headline:2131492959 used because it matches string pool constant na
 Marking string:native_media_view:2131492960 used because it matches string pool constant na
 Marking string:navigation_menu:2131492961 used because it matches string pool constant na
-Marking color:notification_action_color_filter:2131034131 used because it matches string pool constant no
-Marking color:notification_icon_bg_color:2131034132 used because it matches string pool constant no
+Marking color:notification_action_color_filter:2131034132 used because it matches string pool constant no
+Marking color:notification_icon_bg_color:2131034133 used because it matches string pool constant no
 Marking dimen:notification_action_icon_size:2131099657 used because it matches string pool constant no
 Marking dimen:notification_action_text_size:2131099658 used because it matches string pool constant no
 Marking dimen:notification_big_circle_margin:2131099659 used because it matches string pool constant no
@@ -7590,7 +7690,6 @@ Marking attr:fontWeight:2130903064 used because it matches string pool constant 
 Marking layout:ime_base_split_test_activity:2131361796 used because it matches string pool constant ime
 Marking layout:ime_secondary_split_test_activity:2131361797 used because it matches string pool constant ime
 Marking string:indeterminate:2131492901 used because it matches string pool constant ind
-Marking id:pooling_container_listener_holder_tag:2131230799 used because it matches string pool constant pool
 Marking string:close_drawer:2131492873 used because it matches string pool constant close
 Marking string:close_sheet:2131492874 used because it matches string pool constant close
 Marking attr:fontStyle:2130903062 used because it matches string pool constant fontStyle
@@ -7626,8 +7725,8 @@ Marking id:title:2131230821 used because it matches string pool constant title
 Marking id:title:2131230821 used because it matches string pool constant title
 Marking string:navigation_menu:2131492961 used because it matches string pool constant navigation
 Marking attr:colorScheme:2130903048 used because it matches string pool constant color
-Marking color:notification_action_color_filter:2131034131 used because it matches string pool constant notification
-Marking color:notification_icon_bg_color:2131034132 used because it matches string pool constant notification
+Marking color:notification_action_color_filter:2131034132 used because it matches string pool constant notification
+Marking color:notification_icon_bg_color:2131034133 used because it matches string pool constant notification
 Marking dimen:notification_action_icon_size:2131099657 used because it matches string pool constant notification
 Marking dimen:notification_action_text_size:2131099658 used because it matches string pool constant notification
 Marking dimen:notification_big_circle_margin:2131099659 used because it matches string pool constant notification
@@ -7923,6 +8022,7 @@ Marking id:fragment_container_view_tag:2131230776 used because it matches string
 @com.cisco.quizapp:color/common_google_signin_btn_text_light_focused : reachable=true
 @com.cisco.quizapp:color/common_google_signin_btn_text_light_pressed : reachable=true
 @com.cisco.quizapp:color/common_google_signin_btn_tint : reachable=true
+@com.cisco.quizapp:color/ic_launcher_background : reachable=false
 @com.cisco.quizapp:color/notification_action_color_filter : reachable=true
     @com.cisco.quizapp:color/androidx_core_secondary_text_default_material_light
 @com.cisco.quizapp:color/notification_icon_bg_color : reachable=true
@@ -7930,11 +8030,11 @@ Marking id:fragment_container_view_tag:2131230776 used because it matches string
 @com.cisco.quizapp:color/vector_tint_theme_color : reachable=false
 @com.cisco.quizapp:dimen/browser_actions_context_menu_max_width : reachable=true
 @com.cisco.quizapp:dimen/browser_actions_context_menu_min_padding : reachable=true
-@com.cisco.quizapp:dimen/compat_button_inset_horizontal_material : reachable=false
-@com.cisco.quizapp:dimen/compat_button_inset_vertical_material : reachable=false
-@com.cisco.quizapp:dimen/compat_button_padding_horizontal_material : reachable=false
-@com.cisco.quizapp:dimen/compat_button_padding_vertical_material : reachable=false
-@com.cisco.quizapp:dimen/compat_control_corner_material : reachable=false
+@com.cisco.quizapp:dimen/compat_button_inset_horizontal_material : reachable=true
+@com.cisco.quizapp:dimen/compat_button_inset_vertical_material : reachable=true
+@com.cisco.quizapp:dimen/compat_button_padding_horizontal_material : reachable=true
+@com.cisco.quizapp:dimen/compat_button_padding_vertical_material : reachable=true
+@com.cisco.quizapp:dimen/compat_control_corner_material : reachable=true
 @com.cisco.quizapp:dimen/compat_notification_large_icon_max_height : reachable=true
 @com.cisco.quizapp:dimen/compat_notification_large_icon_max_width : reachable=true
 @com.cisco.quizapp:dimen/notification_action_icon_size : reachable=true
@@ -8189,11 +8289,12 @@ Marking id:fragment_container_view_tag:2131230776 used because it matches string
     @com.cisco.quizapp:drawable/offline_dialog_default_icon_42dp
     @com.cisco.quizapp:string/offline_dialog_text
 @com.cisco.quizapp:mipmap/ic_launcher : reachable=true
-    @com.cisco.quizapp:drawable/ic_launcher_background
-    @com.cisco.quizapp:drawable/ic_launcher_foreground
+    @com.cisco.quizapp:color/ic_launcher_background
+    @com.cisco.quizapp:mipmap/ic_launcher_foreground
+@com.cisco.quizapp:mipmap/ic_launcher_foreground : reachable=false
 @com.cisco.quizapp:mipmap/ic_launcher_round : reachable=true
-    @com.cisco.quizapp:drawable/ic_launcher_background
-    @com.cisco.quizapp:drawable/ic_launcher_foreground
+    @com.cisco.quizapp:color/ic_launcher_background
+    @com.cisco.quizapp:mipmap/ic_launcher_foreground
 @com.cisco.quizapp:string/androidx_startup : reachable=true
 @com.cisco.quizapp:string/app_name : reachable=true
 @com.cisco.quizapp:string/call_notification_answer_action : reachable=false
@@ -8399,10 +8500,15 @@ The root reachable resources are:
  color:common_google_signin_btn_text_light_focused:2131034128
  color:common_google_signin_btn_text_light_pressed:2131034129
  color:common_google_signin_btn_tint:2131034130
- color:notification_action_color_filter:2131034131
- color:notification_icon_bg_color:2131034132
+ color:notification_action_color_filter:2131034132
+ color:notification_icon_bg_color:2131034133
  dimen:browser_actions_context_menu_max_width:2131099648
  dimen:browser_actions_context_menu_min_padding:2131099649
+ dimen:compat_button_inset_horizontal_material:2131099650
+ dimen:compat_button_inset_vertical_material:2131099651
+ dimen:compat_button_padding_horizontal_material:2131099652
+ dimen:compat_button_padding_vertical_material:2131099653
+ dimen:compat_control_corner_material:2131099654
  dimen:compat_notification_large_icon_max_height:2131099655
  dimen:compat_notification_large_icon_max_width:2131099656
  dimen:notification_action_icon_size:2131099657
@@ -8574,7 +8680,7 @@ The root reachable resources are:
  layout:notification_template_part_time:2131361803
  layout:offline_ads_dialog:2131361804
  mipmap:ic_launcher:2131427328
- mipmap:ic_launcher_round:2131427329
+ mipmap:ic_launcher_round:2131427330
  string:androidx_startup:2131492864
  string:app_name:2131492865
  string:close_drawer:2131492873
@@ -8659,14 +8765,16 @@ The root reachable resources are:
 Unused resources are: 
  color:call_notification_answer_color:2131034118
  color:call_notification_decline_color:2131034119
- color:vector_tint_color:2131034133
- color:vector_tint_theme_color:2131034134
+ color:vector_tint_color:2131034134
+ color:vector_tint_theme_color:2131034135
  drawable:ic_call_answer:2131165208
  drawable:ic_call_answer_low:2131165209
  drawable:ic_call_answer_video:2131165210
  drawable:ic_call_answer_video_low:2131165211
  drawable:ic_call_decline:2131165212
  drawable:ic_call_decline_low:2131165213
+ drawable:ic_launcher_background:2131165214
+ drawable:ic_launcher_foreground:2131165215
  id:chronometer:2131230769
  id:dark:2131230772
  id:forever:2131230775
@@ -8737,6 +8845,8 @@ Unused resources are:
  style:Theme_IAPTheme:2131558409
 Skipped unused resource base/res/color/vector_tint_color.xml: 177 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource base/res/color/vector_tint_theme_color.xml: 221 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/ic_launcher_background.xml: 175 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/ic_launcher_foreground.xml: 902 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource base/res/drawable-ldpi-v4/ic_call_answer.png: 270 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource base/res/drawable-ldpi-v4/ic_call_answer_low.png: 270 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource base/res/drawable-ldpi-v4/ic_call_answer_video.png: 199 bytes (replaced with small dummy file of size 67 bytes)
