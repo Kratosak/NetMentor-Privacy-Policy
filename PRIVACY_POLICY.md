@@ -82,7 +82,8 @@ The App itself does not transmit any user data over the internet. No data is sen
 
 ## 5. Data Sharing
 
-We do not sell, trade, rent, or share your personal information with any third parties, because we do not collect any personal information.
+We do not sell, trade, rent, or share your personal information with any third parties, because we do not collect any personal information.\
+When you choose to report an issue, your email client is opened with a pre-filled message. No data is sent by the app itself; your email provider handles transmission.
 
 The only third party that may receive data when you use the App is **Google AdMob**, as described in Section 2.2.
 
